@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bgImg{
+    background-image: url(./assets/images/About//login-page.jpg);
+    background-size: cover;
+  }
+.bgSignUp{
+    background-image: url(./assets/images/About//sign-up.jpg);
+    background-size: cover;
+}

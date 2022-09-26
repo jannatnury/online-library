@@ -2,8 +2,8 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
-            <footer class="footer p-10 bg-gray-200 text-base-content">
+        <div className='bg-gray-600 text-white'>
+            <footer class="footer p-10">
                 <div>
                     <span class="footer-title">Books We Provide</span>
                     <a class="link link-hover">Novels</a>
@@ -35,10 +35,9 @@ const Footer = () => {
                     <a class="link link-hover">Cookie policy</a>
                 </div>
             </footer>
-            <footer class="footer px-10 py-4 border-t bg-gray-200 text-base-content border-base-300">
-                <div class="items-center grid-flow-col">
-                    <h1>The Little Library</h1>
-                    <p>Jannat Nury .<br />Providing reliable tech since 2020</p>
+            <footer class="footer px-10 py-4 border-t border-base-300">
+                <div class="text-2xl">
+                    <h1>Book Store</h1>
                 </div>
                 <div class="md:place-self-center md:justify-self-end">
                     <div class="grid grid-flow-col gap-4">
@@ -48,7 +47,7 @@ const Footer = () => {
                     </div>
                 </div>
             </footer>
-            <footer class=" px-10 py-4 border-t bg-gray-200 text-base-content border-base-300">
+            <footer class=" px-10 py-4 border-t border-base-300">
                 <p className='text-center'> Copyright,2022,Jannat Nury, All rights reserved</p>
             </footer>
         </div>

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "thio",
+        "name": "Book-1",
+        "category": "story",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury"
+    },
+    {
+        "id": "thioa",
+        "name": "Book-2",
+        "category": "story",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-2"
+    },
+    {
+        "id": "thiob",
+        "name": "Book-3",
+        "category": "novel",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-3"
+    },
+    {
+        "id": "thioc",
+        "name": "Book-4",
+        "category": "novel",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-4"
+    },
+    {
+        "id": "thiod",
+        "name": "Book-5",
+        "category": "suspance",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-5"
+    },
+    {
+        "id": "thioe",
+        "name": "Book-6",
+        "category": "suspance",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-6"
+    },
+    {
+        "id": "thiof",
+        "name": "Book-7",
+        "category": "thriller",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-7"
+    },
+    {
+        "id": "thiog",
+        "name": "Book-8",
+        "category": "thriller",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-8"
+    },
+    {
+        "id": "thioh",
+        "name": "Book-9",
+        "category": "romantic",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-9"
+    },
+    {
+        "id": "thioi",
+        "name": "Book-10",
+        "category": "romantic",
+        "price": 530,
+        "details": "lorem10",
+        "image": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, aspernatur.",
+        "ratings": "3 star",
+        "author": "Nury-10"
+    }
+]

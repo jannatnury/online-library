@@ -1,16 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import google from '../assets/images/icons/google.png';
+import git from '../assets/images/icons/github.png';
+import facebook from '../assets/images/icons/facebook.svg';
+
 
 const SignUp = () => {
     return (
-        <div className="flex h-screen backgroundImg justify-center items-center">
-            <div className="card w-96 bg-base-100 bg-transparent shadow-2xl">
+        <div className="flex h-screen bgSignUp justify-center items-center">
+            <div className="card w-96 text-white  bg-transparent shadow-2xl">
                 <div className="card-body">
                     <h2 className="text-center text-2xl font-bold">Sign Up</h2>
                     <form>
                         <div className="form-control w-full max-w-xs">
                             <label className="label">
-                                <span className="label-text ">Name</span>
+                                <span className="label-text  text-white ">Name</span>
                             </label>
                             <input
                                 type="name"
@@ -20,7 +24,7 @@ const SignUp = () => {
                         </div>
                         <div className="form-control w-full max-w-xs">
                             <label className="label">
-                                <span className="label-text ">Email</span>
+                                <span className="label-text  text-white">Email</span>
                             </label>
                             <input
                                 type="email"
@@ -30,12 +34,12 @@ const SignUp = () => {
                         </div>
                         <div className="form-control w-full max-w-xs">
                             <label className="label">
-                                <span className="label-text ">Password</span>
+                                <span className="label-text  text-white">Password</span>
                             </label>
                             <input
                                 type="password"
                                 placeholder="Password"
-                                className="input input-bordered  w-full max-w-xs"
+                                className="input input-bordered w-full max-w-xs"
                             />
                         </div>
                         <input
@@ -53,14 +57,18 @@ const SignUp = () => {
                         </small>
                     </p>
                     <div className="divider">OR</div>
-                    <div className=" flex justify-evenly items-center">
+                    <div className=" flex justify-evenly bg-slate-200 py-3 rounded-lg items-center">
                         <button
                         >
-                            <h1>G</h1>
+                            <img src={google} alt="" />
                         </button>
                         <button
                         >
-                            <h1>Git</h1>
+                            <img src={git} alt="" />
+                        </button>
+                        <button
+                        >
+                            <img className='w-[30px]' src={facebook} alt="" />
                         </button>
                     </div>
                 </div>

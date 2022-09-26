@@ -15,7 +15,7 @@ const About = () => {
         <div className="hero-overlay bg-opacity-70"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="w-2/3">
-            <h1 className="mb-5 text-5xl font-bold">The Little Library</h1>
+            <h1 className="mb-5 text-5xl font-bold">Book Store</h1>
             <p className="mb-5 text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem officiis, expedita quia quod maiores nisi recusandae pariatur assumenda repudiandae. A consequuntur error cumque beatae neque aperiam numquam animi delectus ducimus dicta, dolore repellendus expedita quo provident iste cupiditate? Autem ullam facere magni, aliquid eius labore facilis laudantium voluptatum numquam minima.</p>
           </div>
         </div>
